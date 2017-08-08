@@ -1,0 +1,51 @@
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\ZalSearch.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\ZalSearch.pdb
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\Antlr3.Runtime.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\EntityFramework.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\Newtonsoft.Json.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Helpers.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Mvc.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Optimization.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Providers.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Razor.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.WebPages.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.WebPages.Razor.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\WebGrease.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\EntityFramework.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\Newtonsoft.Json.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Helpers.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Mvc.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.Razor.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.WebPages.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\bin\System.Web.WebPages.Razor.xml
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\obj\Debug\ZalSearch.dll
+C:\Users\zal\Documents\Visual Studio 2012\ZalSearch\ZalSearch\obj\Debug\ZalSearch.pdb
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\ZalSearch.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\ZalSearch.pdb
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\Antlr3.Runtime.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\EntityFramework.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\Newtonsoft.Json.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Helpers.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Mvc.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Optimization.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Providers.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Razor.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.WebPages.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.WebPages.Razor.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\WebGrease.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\EntityFramework.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\Newtonsoft.Json.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Helpers.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Mvc.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.Razor.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.WebPages.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\bin\System.Web.WebPages.Razor.xml
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\obj\Debug\ZalSearch.csprojResolveAssemblyReference.cache
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\obj\Debug\ZalSearch.dll
+C:\Users\gm026086.CORP\Documents\Visual Studio 2012\Projects\ZalSearch 20170808\ZalSearch\ZalSearch\obj\Debug\ZalSearch.pdb

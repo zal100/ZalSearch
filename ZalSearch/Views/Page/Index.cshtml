@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ZalSearch.Models.PageModels>
+
+@{
+    ViewBag.Title = "List Results";
+}
+
+<h2>List Results</h2>
+
+<p>
+    @Html.ActionLink("Home", "Index", "Home")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ITunesPageURL)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Clicks)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+@*            @Html.DisplayFor(modelItem => item.ITunesPageURL)*@
+            @Html.ActionLink(item.ITunesPageURL, "StoreClick", "Page", new { id = item.PageId }, new { target = "_blank" }) |
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Clicks)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PageId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PageId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PageId })
+        </td>
+    </tr>
+}
+
+</table>
+

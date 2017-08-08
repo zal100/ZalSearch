@@ -1,0 +1,22 @@
+﻿@model ZalSearch.Models.ParameterKeys
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>ParameterKeys</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.TermValue)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.TermValue)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ParameterId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

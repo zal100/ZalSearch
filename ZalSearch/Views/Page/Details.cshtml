@@ -1,0 +1,29 @@
+﻿@model ZalSearch.Models.PageModels
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>PageModels</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ITunesPageURL)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ITunesPageURL)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Clicks)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Clicks)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.PageId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

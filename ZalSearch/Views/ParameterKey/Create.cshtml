@@ -1,0 +1,35 @@
+﻿@model ZalSearch.Models.ParameterKeys
+
+@{
+    ViewBag.Title = "Enter Item";
+}
+
+<h2>Enter Item to Search For in Itunes</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Search Item</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TermValue)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.TermValue)
+            @Html.ValidationMessageFor(model => model.TermValue)
+        </div>
+
+        <p>
+            <input type="submit" value="Search" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Home", "Index", "Home")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
